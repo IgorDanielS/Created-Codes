@@ -1,0 +1,4 @@
+nsorte = float(input("Bom dia, coloque aqui seu numero da sorte" "\n" "Se o número conter virgula, por favor, acrescente o .(ponto) ao invés de ,(virgula)" "\n" "Psiu! A quantidade não importa!" "\n" ))
+nome = input("Ok, agora temos um número importante para você, peço agora que você digite o nome da pessoa que você ama:" "\n")
+simbol = input("Com essas informações sabemos um pouco sobre você, preciso agora que você escolha um símbolo" "\n" "Pode ser qualquer um, até mesmo um &, se quiser ")
+print("Sabemos com isso que seu número da sorte é :" ,nsorte , "e que a pessoa que você ama, se chama: " ,nome , "e que o simbolo que você escolheu é o: " ,simbol)
